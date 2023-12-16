@@ -1,5 +1,5 @@
- ![](./images/logo-itba.png) 
+<img src="./images/logo-itba.png" width="140">
 
-# Python ITBA - Final Project - Constanza Caride
+# Python Course - Final Project - Constanza Caride
 
-##Description
+## Description
