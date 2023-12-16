@@ -1,4 +1,4 @@
- ![](./images/logo-itba.png)
+ ![](./images/logo-itba.png) 
 
 # Python ITBA - Final Project - Constanza Caride
 
