@@ -8,11 +8,15 @@
 <br>
 
 ## Description
-Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
+Hi, welcome to my project! This is the Final Project of a course in Python I have taken at ITBA in 2023. The aim of the project is to allow the user get financial data from the Internet, save it in a Database and then make Reports or a Graphs from them. With this App, users shall quickly and easily explore historic data and compare the evolution or values of different tickers at different times. I hope you enjoy and get the best of it! Your comments or contributions will be welcome.  :chart_with_upwards_trend: 
 
 ## Instructions
-1. Fork this repository
-2. Clone the forked repository
-3. Add your contributions (code or documentation)
-4. Commit and push
-5. Wait for pull request to be merged
+1. Download this repository
+2. If you have a previous version install Python xxx
+3. Create a virtual environment.
+4. Install the requirements.txt file. (pip install -r requirements.txt)
+5. Run the app. (python app.py)
+
+## Usage
+
+
