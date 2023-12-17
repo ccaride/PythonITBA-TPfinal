@@ -41,7 +41,7 @@ python app.py
 
 
 ## Document 
-A full description of the project development is available [here](https://github.com/ccaride/PythonITBA-FP/blob/e2313c21dd0ef3983c77798210eb5e080585451e/Document.md),
+A full description of the project development is available [here](./Document.md).
 
 <br>
 
