@@ -47,5 +47,6 @@ A full description of the project development is available [here](https://github
 
 <sup>[(Back to top)](#Python-Course---Final-Project)</sup>
 
-## License - Acknowledgements - Credits
+
+
 <!--you can add to the repo LICENSE.md and/or CODE_OF_CONDUCT.md templates, they appear next to the readme file--> 
