@@ -40,5 +40,5 @@ python app.py
 A full description of the project development is available [here](https://github.com/ccaride/PythonITBA-FP/blob/e2313c21dd0ef3983c77798210eb5e080585451e/Document.md),
 
 
-## License or Acknowledgements 
-
+## License - Acknowledgements - Credits
+<!--you can add to the repo LICENSE.md and/or CODE_OF_CONDUCT.md templates, they appear next to the readme file--> 
