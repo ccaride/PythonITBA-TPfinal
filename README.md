@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-<a href="# Description"> Description</a> | <a href="# Features">Features</a> | <a href="# Installation">Installation</a> | <a href="# Usage">Usage</a> | <a href="# Document">Document</a> 
+<a href="#Description">Description</a> | <a href="#Features">Features</a> | <a href="#Installation">Installation</a> | <a href="#Usage">Usage</a> | <a href="#Document">Document</a> 
 </p>
 
 **English**   |   [Español](https://github.com/ccaride/PythonITBA-FP/blob/ae87f715857138e2e63ef397c5150912a32eb78e/README-ES.md)
