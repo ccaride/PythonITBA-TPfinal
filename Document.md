@@ -1,7 +1,11 @@
-# Functionality and Design Report
+# Design and Functionality Report
+
+## Design
+
+## Functionality
 
 <details>
-<summary> Web resources used </summary>
+<summary> <h2><i>Web resources used</i></h2>  </summary>
   
 ## Links
 x  
