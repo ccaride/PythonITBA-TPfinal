@@ -12,7 +12,7 @@ Hi, welcome to my project! This is the Final Project of a course in Python I hav
 
 ## Instructions
 1. Download this repository
-2. If you have a previous version install Python xxx
+2. If you have a previous version, install Python xxx
 3. Create a virtual environment.
 4. Install the requirements.txt file. (pip install -r requirements.txt)
 5. Run the app. (python app.py)
