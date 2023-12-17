@@ -14,7 +14,7 @@ Hi, welcome to my project! This is the Final Project of a course in Python I hav
 
 ## Installation
 > [!NOTE]
-> This app runs with Python xx or 
+> This app runs with Python Version 1.21 (or higher) 
 
 1. Download this repository
 2. Create a virtual environment.
