@@ -12,7 +12,7 @@
 ## Links
 Flow Chart Design https://www.canva.com/online-whiteboard/flowcharts/  
 Yahoo Finance Tickers list https://investexcel.net/all-yahoo-finance-stock-tickers/  
-x  
+Yahoo Finance API https://finance.yahoo.com/trending-tickers/  
 x  
 x  
 x  
