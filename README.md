@@ -36,3 +36,9 @@ python app.py
 ## Usage
 
 
+## Document 
+A full description of the project development is available [here]()
+
+
+## License or Acknowledgements 
+
