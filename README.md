@@ -45,7 +45,7 @@ A full description of the project development is available [here](./Document.md)
 
 <br>
 
-<sup>[(Back to top)](#Python-Course---Final-Project)</sup>
+<sup>[`(Back to top)`](#Python-Course---Final-Project)</sup>
 
 
 
