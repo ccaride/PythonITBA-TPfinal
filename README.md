@@ -32,7 +32,7 @@ Hi, welcome to my project! This is the Final Project of a course in Python I hav
 pip install -r requirements.txt
 ```
 
-4. Run the app.  
+4. Run the App.  
 ```
 python c-finance.py
 ```
