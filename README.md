@@ -34,11 +34,11 @@ pip install -r requirements.txt
 
 4. Run the app.  
 ```
-python app.py
+python c-finance.py
 ```
 
 ## Usage
-
+This App works with tickers from Yahoo Finance API. 
 
 ## Document 
 A full description of the project development is available [here](./Document.md).
