@@ -2,6 +2,8 @@
 
 ## Design
 
+<p align="center"><img src="./images/Design.png" width="1000"></p>
+
 ## Functionality
 
 <details>
