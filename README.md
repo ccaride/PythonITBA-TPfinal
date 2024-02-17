@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 4. Run the App.  
 ```
-python c-finance.py
+python3 c-finance.py
 ```
 
 ## Usage
