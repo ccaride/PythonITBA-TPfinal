@@ -18,11 +18,10 @@ Hi, welcome to my project! This is the Final Project of a course in Python I hav
 
 ## Features
 - 100% Open Source
-- 
 
 ## Installation
 > [!NOTE]
-> This App runs with *Python Version 1.21* (or higher).
+> This App runs with *Python3*.
 
 1. Download this repository.
 2. Create a virtual environment.
