@@ -15,6 +15,7 @@ When the app opens it shows a main menu with four options:
 The user chooses the desired option.
 
 The steps within each one are explained below.
+<br>
 1.Summary Data
 Calls MOD2 and execute the "summary" function, which opens the database grouped by Ticker and calculates the minimum and maximum date for each one. Then it prints the summary table and returns to the main menu.
 
