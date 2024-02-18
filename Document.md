@@ -16,8 +16,8 @@ The user chooses the desired option.
 
 The steps within each one are explained below.
 <br>
-1.Summary Data
-Calls MOD2 and execute the "summary" function, which opens the database grouped by Ticker and calculates the minimum and maximum date for each one. Then it prints the summary table and returns to the main menu.
+1.Summary Database
+Calls MOD2 and execute the *"summary"* function, which opens the database grouped by Ticker and calculates the minimum and maximum date for each one. Then it prints the summary table and returns to the main menu.
 
 2.Request data
 Calls MOD1 and asks the user to provide a ticker, a start date, and an end date. Runs the "askInputMenu" function. In the process, checks that the date format is correct and that the end date is later than the start date. The function returns a list with the following elements: [Ticker, Start date, End date].
