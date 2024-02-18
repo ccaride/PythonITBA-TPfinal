@@ -27,7 +27,7 @@ Then it calls MOD2 and executes the *request function* which connects to yahoo f
 It calls MOD3 and presents a menu where it asks the user to choose whether they want to see the data in a table or a graphic.
 -If the user chooses Report, the app calls MOD1 and runs the *askInputMenu function* (already explained).
 Then calls MOD4, runs the *filter function*, which opens the database as a dataframe and filters the information according to the user's request. With the *report function*, it prints the requested records in table form. If there are no records that meet the request, it prints the message "DataFrame is empty!". At the end it return to main menu.
--If the user chooses Graph, the app calls MOD1 and runs the *askInputMenu function* (already explained). Then calls MOD4 and runs the *filter function* (already explained). Afterwards it relays the graph with the *graphic function* and prints it. If there are no records that meet the request, it prints the message "DataFrame is empty!". At the end it return to main menu.
+-If the user chooses Graph, the app calls MOD1 and runs the *askInputMenu function* (already explained). Then calls MOD4 and runs the *filter function* (already explained). Afterwards it makes the graph with the *graphic function* and prints it. If there are no records that meet the request, it prints the message "DataFrame is empty!". At the end it return to main menu.
 
 4.Exit
 The application is closed.
