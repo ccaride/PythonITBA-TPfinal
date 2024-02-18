@@ -14,7 +14,5 @@ Flow Chart Design https://www.canva.com/online-whiteboard/flowcharts/
 Yahoo Finance Tickers list https://investexcel.net/all-yahoo-finance-stock-tickers/  
 Yahoo Finance https://finance.yahoo.com/trending-tickers/  
 Yahoo Finance API Documentation https://pypi.org/project/yfinance/  
-x  
-x  
 </details>
 
