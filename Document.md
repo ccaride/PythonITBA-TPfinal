@@ -7,11 +7,11 @@
 ## Functionality
 This application runs with Python and uses the following packages: pandas, plotly, sqlalchemy and yfinance.
 
-When the app opens it shows a main menu with four options:
-1.Summary Database
-2.Request data
-3.Visualize data
-4.Exit
+When the app opens it shows a main menu with four options:<br>
+1.Summary Database<br>
+2.Request data<br>
+3.Visualize data<br>
+4.Exit<br>
 The user chooses the desired option.
 
 The steps within each one are explained below.
