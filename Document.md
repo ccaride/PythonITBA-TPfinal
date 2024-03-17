@@ -32,7 +32,7 @@ Then MOD4 is called and runs the *filter function*, which opens the database as 
 4.Exit
 The application is closed.
  
-<details><summary>Web resources used</summary>  
+<details><summary><strong>Web resources used</strong></summary>  
 
 ## Links
 Flow Chart Design https://www.canva.com/online-whiteboard/flowcharts/  
