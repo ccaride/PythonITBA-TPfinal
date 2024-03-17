@@ -32,11 +32,10 @@ Then MOD4 is called and runs the *filter function*, which opens the database as 
 4.Exit
 The application is closed.
  
-  
-<summary> <h2>Web resources used</h2>  </summary>
-  
-<details ## Links> 
- <i>
+<details><summary><h2>Web resources used</h2></summary>  
+
+## Links
+<i>
 Flow Chart Design https://www.canva.com/online-whiteboard/flowcharts/  
 Yahoo Finance Tickers list https://investexcel.net/all-yahoo-finance-stock-tickers/  
 Yahoo Finance https://finance.yahoo.com/trending-tickers/  
