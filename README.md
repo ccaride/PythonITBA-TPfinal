@@ -2,7 +2,7 @@
 
 # Python Course - Final Project
 
-## Constanza Caride [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/constanzacaride)
+## Constanza Caride [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/constanzacaride)
 
 <br>
 <br>
