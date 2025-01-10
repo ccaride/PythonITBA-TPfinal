@@ -1,5 +1,5 @@
-import mod1
-import mod4
+import .mod1
+import .mod4
 
 def displayMenu():
     while True:    
